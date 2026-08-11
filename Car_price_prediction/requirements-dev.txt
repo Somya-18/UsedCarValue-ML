@@ -1,3 +1,0 @@
--r requirements.txt
-notebook>=6.5,<7
-pytest>=8,<9
