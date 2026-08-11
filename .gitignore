@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.matplotlib/
+.venv/
+.idea/
+.vscode/
+.DS_Store
+models/*.joblib
+!models/.gitkeep
+!reports/.gitkeep
